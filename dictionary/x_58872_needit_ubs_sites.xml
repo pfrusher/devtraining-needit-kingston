@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="UBS Sites" max_length="40" name="x_58872_needit_ubs_sites" type="collection">
+        <element attributes="import_attribute_name=Building Code,edge_encryption_enabled=true" label="Building Code" max_length="40" name="u_building_code" type="string"/>
+        <element attributes="import_attribute_name=City,edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="import_attribute_name=Company,edge_encryption_enabled=true" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="import_attribute_name=Country,edge_encryption_enabled=true" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=CRE ID,edge_encryption_enabled=true" label="CRE ID" max_length="40" name="u_cre_id" type="string"/>
+        <element attributes="import_attribute_name=Migration Date" label="Migration Date" max_length="40" name="u_migration_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Region,edge_encryption_enabled=true" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="import_attribute_name=Site Type,edge_encryption_enabled=true" label="Site Type" max_length="40" name="u_site_type" type="string"/>
+        <element attributes="import_attribute_name=Street,edge_encryption_enabled=true" label="Street" max_length="68" name="u_street" type="string"/>
+        <element attributes="import_attribute_name=Time Zone,edge_encryption_enabled=true" label="Time Zone " max_length="40" name="u_time_zone" type="string"/>
+        <element attributes="import_attribute_name=UTC,edge_encryption_enabled=true" label="UTC" max_length="40" name="u_utc" type="string"/>
+    </element>
+</database>

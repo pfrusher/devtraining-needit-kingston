@@ -9,10 +9,10 @@
         <element choice="1" label="Issue Catagory" max_length="40" name="issue_catagory" type="choice">
             <choice/>
         </element>
+        <element attributes="none" label="Migration Date" max_length="40" name="migration_date" type="glide_date"/>
         <element label="Notes" max_length="4000" name="notes" type="journal"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Region" max_length="40" name="region" type="string"/>
-        <element label="Site Migration" max_length="40" name="site_migration" type="glide_date"/>
         <element label="Site Type" max_length="40" name="site_type" type="string"/>
         <element choice="3" default="new issue" label="State" max_length="40" name="state" type="choice">
             <choice>
@@ -24,6 +24,8 @@
             </choice>
         </element>
         <element label="Street" max_length="40" name="street" type="string"/>
+        <element label="Time Zone" max_length="40" name="time_zone" type="string"/>
+        <element label="UTC" max_length="40" name="utc" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Responsible Party" max_length="40" name="u_choice_1" type="string">
             <choice>
                 <element label="WWT-ITC" sequence="0" value="wwt-itc"/>

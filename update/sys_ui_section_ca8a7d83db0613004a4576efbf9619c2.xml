@@ -5,13 +5,13 @@
             <element>company</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>9b3f5687db4613004a4576efbf96192b</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>175c9e97db4e13004a4576efbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>region</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>1f3f5687db4613004a4576efbf96192b</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>975c9e97db4e13004a4576efbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>country</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>9f3f5687db4613004a4576efbf96192b</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>1b5c9e97db4e13004a4576efbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,293 +47,307 @@
             <element>city</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>133f5687db4613004a4576efbf96192c</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>9b5c9e97db4e13004a4576efbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>street</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>933f5687db4613004a4576efbf96192c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>173f5687db4613004a4576efbf96192c</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>1f5c9e97db4e13004a4576efbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>site_migration</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>973f5687db4613004a4576efbf96192c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>site_type</element>
-            <position>7</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>1b3f5687db4613004a4576efbf96192c</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>9f5c9e97db4e13004a4576efbf9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>building_code</element>
-            <position>8</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>9b3f5687db4613004a4576efbf96192c</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>135c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cre_id</element>
-            <position>9</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>1f3f5687db4613004a4576efbf96192c</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>935c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
-            <position>10</position>
+            <element>street</element>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>9f3f5687db4613004a4576efbf96192c</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>175c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>11</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>133f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>975c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>12</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>933f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>1b5c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_5</element>
-            <position>13</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>173f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>9b5c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_1</element>
-            <position>14</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>973f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>1f5c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reference_1</element>
-            <position>15</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>1b3f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>9f5c9e97db4e13004a4576efbf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_duration_6</element>
-            <position>16</position>
+            <element>number</element>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>9b3f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>135c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>17</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>1f3f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>935c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_4</element>
-            <position>18</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>9f3f5687db4613004a4576efbf96192d</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>175c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>19</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>133f5687db4613004a4576efbf96192e</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>975c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reference_3</element>
-            <position>20</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>933f5687db4613004a4576efbf96192e</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>1b5c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_date_4</element>
-            <position>21</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>173f5687db4613004a4576efbf96192e</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>9b5c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>22</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>973f5687db4613004a4576efbf96192e</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>1f5c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>notes</element>
-            <position>23</position>
+            <element>migration_date</element>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-18 03:48:04</sys_created_on>
-            <sys_id>1b3f5687db4613004a4576efbf96192e</sys_id>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>9f5c9e97db4e13004a4576efbf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-18 03:48:04</sys_updated_on>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>135cde97db4e13004a4576efbf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>utc</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>935cde97db4e13004a4576efbf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 22:14:00</sys_created_on>
+            <sys_id>175cde97db4e13004a4576efbf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_ubs" sys_domain="global" view="Default view">ca8a7d83db0613004a4576efbf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 22:14:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
