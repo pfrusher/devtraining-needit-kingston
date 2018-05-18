@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Issue" max_length="40" name="x_58872_needit_ubs" type="collection">
+        <element label="Building Code" max_length="40" name="building_code" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Company" max_length="40" name="company" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="CRE ID" max_length="40" name="cre_id" type="string"/>
+        <element choice="1" label="Issue Catagory" max_length="40" name="issue_catagory" type="choice">
+            <choice/>
+        </element>
+        <element label="Notes" max_length="4000" name="notes" type="journal"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Region" max_length="40" name="region" type="string"/>
+        <element label="Site Migration" max_length="40" name="site_migration" type="glide_date"/>
+        <element label="Site Type" max_length="40" name="site_type" type="string"/>
+        <element choice="3" default="new issue" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element label="New Issue" sequence="0" value="new issue"/>
+                <element label="Pending" sequence="1" value="pending"/>
+                <element label="In Progress" sequence="2" value="in progress"/>
+                <element label="On Hold" sequence="3" value="on hold"/>
+                <element label="Closed" sequence="4" value="closed"/>
+            </choice>
+        </element>
+        <element label="Street" max_length="40" name="street" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Responsible Party" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="WWT-ITC" sequence="0" value="wwt-itc"/>
+                <element label="WWT-Command Center" sequence="1" value="wwt-command center"/>
+                <element label="WWT-Customer Care" sequence="2" value="wwt-customer care"/>
+                <element label="WWT-PM" sequence="3" value="wwt-pm"/>
+                <element label="WWT-IT" sequence="4" value="wwt-it"/>
+                <element label="WWT-TM" sequence="5" value="wwt-tm"/>
+                <element label="Customer Site Contact" sequence="6" value="customer site contact"/>
+                <element label="Customer IT" sequence="7" value="customer it"/>
+                <element label="Customer Corporate" sequence="8" value="customer corporate"/>
+                <element label="Partner" sequence="9" value="partner"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority" mandatory="true" max_length="40" name="u_choice_4" type="string">
+            <choice>
+                <element label="Critical" sequence="0" value="critical"/>
+                <element label="High" sequence="1" value="high"/>
+                <element label="Medium" sequence="2" value="medium"/>
+                <element label="Low" sequence="3" value="low"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Issue Type" mandatory="true" max_length="40" name="u_choice_5" type="choice">
+            <choice>
+                <element label="Circuit" sequence="0" value="circuit"/>
+                <element label="Equipment" sequence="1" value="equipment"/>
+                <element label="WiFi" sequence="2" value="wifi"/>
+                <element label="LTE" sequence="3" value="lte"/>
+                <element label="Cable" sequence="4" value="cable"/>
+                <element label="Power" sequence="5" value="power"/>
+                <element label="HVAC" sequence="6" value="hvac"/>
+                <element label="MDF/IDF" sequence="7" value="mdf/idf"/>
+                <element label="Partner Tech" sequence="8" value="partner tech"/>
+                <element label="Scheduling" sequence="9" value="scheduling"/>
+            </choice>
+        </element>
+        <element label="Date Opened" mandatory="true" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element label="New Duration" max_length="40" name="u_glide_duration_6" type="glide_duration"/>
+        <element label="Assigned To" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <element label="Opened By" mandatory="true" max_length="32" name="u_reference_3" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_reference_3"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>
